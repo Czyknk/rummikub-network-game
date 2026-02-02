@@ -1,0 +1,11 @@
+# C++
+*.o
+*.out
+rummikub_server
+
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
