@@ -1,7 +1,7 @@
 # C++
 *.o
 *.out
-rummikub_server
+rummikub_server_app
 
 # Python
 __pycache__/
